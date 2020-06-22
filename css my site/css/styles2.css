@@ -1,0 +1,18 @@
+.topcontainer{
+  height: 200px;
+  width: 200px;
+  background-color: #00e0ff;
+display: inline-block;
+}
+.middlecontainer{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+display: inline-block;
+}
+.bottomcontainer{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: inline-block;
+}

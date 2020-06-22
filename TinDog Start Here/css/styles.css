@@ -1,0 +1,175 @@
+/* commontags */
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+h2{
+  font-size:
+}
+h3{
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 2.5rem;
+}
+h4{
+  font-size: 1.5rem;
+}
+p{
+  font-size: 1rem;
+  font-family: 'Montserrat-Bold', sans-serif;
+}
+em{
+  font-size: 1.5rem;
+}
+
+#title{
+  background-color: #ff2e63;
+}
+
+
+/* navigationbar */
+.navbar{
+  background-color: #ff2e63;
+  padding-top: 50px;
+}
+.navbar-nav{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+}
+.navbar-brand{
+font-family: 'Ubuntu', sans-serif;
+padding-left:106px;
+font-size: 3rem;
+font-weight: bold;
+}
+.nav-item{
+  margin: 0 10px;
+}
+.nav-link{
+font-family: 'IBM Plex Serif', serif;
+font-size: 1rem;
+font-weight: bolder;
+}
+
+
+/* titlesection */
+.row{
+  padding-bottom: 30px;
+}
+.titledes{
+  padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    line-height: 2;
+}
+.downloadbutton{
+  margin-left: 130px;
+  margin-right:20px;
+}
+.iphone{
+margin-left: 150px;
+margin-top: 10px;
+height: 550px;
+}
+
+
+
+/* featuressection */
+#features{
+  padding: 100px 0;
+}
+.featuresdes{
+  text-align: center;
+}
+.featurebutton{
+  color: #e84545;
+  margin-bottom: 5px;
+}
+.featurebutton:hover{
+  color: #00adb5;
+}
+.featurescontainer{
+  padding: 5% 15%;
+}
+
+
+
+
+/* testimonials */
+#testimonials{
+  background-color: #e84545;
+  text-align: center;
+  padding: 5% 15%;
+}
+.testimonialsdes{
+  width: 60%;
+  margin: 0 auto;
+}
+.testimonialimage{
+  width: 10%;
+  border-radius: 100%;
+  margin:50px 20px 20px 5px;
+}
+
+
+/* press */
+#press{
+  background-color: #e84545;
+  text-align: center;
+}
+.pressimages{
+  height:  30%;
+  width: 250px;
+  padding: 40px 0;
+  margin: 0 20px;
+}
+
+
+/* pricing */
+
+
+#pricing{
+padding: 100px;
+}
+.pricingheading{
+  text-align: center;
+    font-size: 2.5rem;
+}
+.pricingdes{
+  text-align: center;
+font-size: 1.5rem;
+}
+.pricingtable{
+padding-top: 80px;
+}
+.pricingitem{
+  text-align:center;
+  font-size: 1.25rem;
+}
+
+/* ctasection */
+
+#cta{
+  text-align: center;
+  background-color:  #ff2e63;
+  padding: 100px;
+  position: relative;
+}
+.ctades{
+  width: 40%;
+  margin: 0 auto 70px;
+
+}
+.ctagoogle{
+  position: absolute;
+    left: 750px;
+}
+.ctapple{
+  position: absolute;
+    right: 800px;
+}
+
+/* footer */
+#footer{
+  text-align: center;
+  padding: 100px;
+}
